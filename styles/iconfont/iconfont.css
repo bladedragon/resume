@@ -30,3 +30,7 @@
 
 .icon-qq:before { content: "\e752"; }
 
+.icon-huggingface:before {
+  content: "\e656";
+}
+

@@ -10,7 +10,7 @@ export default {
   github: 'Bladedragon',
   // 意向的工作
   // 建议不超过8个字
-  job: '大数据开发工程师',
+  job: '大数据平台工程师',
   /**
    * 简介栏
    * 最多可以有三个
@@ -36,7 +36,7 @@ export default {
   contacts: [
     { address: '1156673039@qq.com', type: 'mail' },
     { address: 'note.zblade.top', type: 'blog' },
-    { address: 'huggingface.co/bladedragon', type: 'github' }
+    { address: 'huggingface.com/bladedragon', type: 'github' }
   ],
   /**
    * @param {[Boolean]} 是否显示微信二维码

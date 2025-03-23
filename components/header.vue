@@ -62,6 +62,7 @@ export default {
         case 'wechat': return 'icon-weixin'
         case 'qq': return 'icon-qq'
         case 'tell': return 'icon-dianhua'
+        case 'huggingface': return 'icon-huggingface'
         default: return ''
       }
     },
